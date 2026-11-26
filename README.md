@@ -1,0 +1,2 @@
+# minidpc
+Release APK host.
